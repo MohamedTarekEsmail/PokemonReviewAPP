@@ -8,5 +8,6 @@
         public ICollection<Review> Reviews { get; set; }
         public ICollection<PokemonCategory> PokemonCategories { get; set; }
         public ICollection<PokemonOwner> PokemonOwners { get; set; }
+
     }
 }
